@@ -1,0 +1,4 @@
+.DS_Store
+# raw sources (Mixamo FBX, Sketchfab originals, downloads) never go in this repo
+assets-src/
+*/assets-src/
