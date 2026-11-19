@@ -19,5 +19,7 @@ All sounds are Freesound previews released under Creative Commons 0 (public doma
 | skid | Chrysler LHS tire squeal 04 (04-25-2009).wav | audible-edge | https://freesound.org/s/71739/ | CC0 |
 | wind | Wind__Artic__Cold.wav | cobratronik | https://freesound.org/s/117136/ | CC0 |
 | eng-a, eng-b | sports_motorbike_motor_engine_r6 | bodhistone | https://freesound.org/s/855305/ | CC0 |
-| eng-c, eng-d, eng-e | motorbike hornet 600 onboard.clip 0005.N3.F.wav | martian | https://freesound.org/s/181161/ | CC0 |
+| eng-c, eng-d | motorbike hornet 600 onboard.clip 0005.N3.F.wav | martian | https://freesound.org/s/181161/ | CC0 |
+| eng-e, eng-g | motorbike hornet600 passes mostly fast'-clip 0004.mp3 | martian | https://freesound.org/s/83155/ | CC0 |
+| eng-f | Kawasaki Ninja Burnout | Hurry_Joe33 | https://freesound.org/s/428191/ | CC0 |
 | crowd | Stadium_1.wav | tonant | https://freesound.org/s/203457/ | CC0 |
