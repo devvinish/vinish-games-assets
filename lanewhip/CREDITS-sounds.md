@@ -16,8 +16,13 @@ All sounds are Freesound previews released under Creative Commons 0 (public doma
 | nitro | Turbo Spooling and Blow Off.WAV | EwanPenman11 | https://freesound.org/s/659544/ | CC0 |
 | cash | Coin_C_07 | cabled_mess | https://freesound.org/s/350875/ | CC0 |
 | click | UI Button Click | el_boss | https://freesound.org/s/677861/ | CC0 |
+| thorn | Truck Horn | danlucaz | https://freesound.org/s/513741/ | CC0 |
+| thorn2 | truck throaty real horn honks annoyed angry echo | kyles | https://freesound.org/s/406888/ | CC0 |
+| tpass | BG SaSc Old Truck Pass By.wav | Profispiesser | https://freesound.org/s/583278/ | CC0 |
+| pass3 | One car passing by | JPBILLINGSLEYJR | https://freesound.org/s/465397/ | CC0 |
 | skid | Chrysler LHS tire squeal 04 (04-25-2009).wav | audible-edge | https://freesound.org/s/71739/ | CC0 |
 | scrape | MetalScrape_5.wav | deerlord | https://freesound.org/s/534852/ | CC0 |
 | wind | Car Strong Wind Noise.mp3 | FunWithSound | https://freesound.org/s/439242/ | CC0 |
+| road | Tire noise on the highway | ViveleVent | https://freesound.org/s/817389/ | CC0 |
 | eng-on | Import car revs on Chassis Dyno with Turbo.wav | editboy23 | https://freesound.org/s/496171/ | CC0 |
 | music | Racing game menu music - while buying fancy cars we will never have! | fmceretta | https://freesound.org/s/426701/ | CC0 |
